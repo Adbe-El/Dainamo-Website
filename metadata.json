@@ -1,0 +1,5 @@
+{
+  "name": "Dainamo AI Consulting",
+  "description": "A complete, 5-page website for 'Dainamo', an AI Consulting firm. The site is a fully functional, mobile-first responsive React single-page application. It includes a comprehensive admin dashboard for content management (testimonials, blog, site settings), with all data persisted in the browser's local storage. This allows for dynamic content updates without a backend server. To access the admin panel, navigate to the '#/admin' route. The default credentials are username: 'admin', password: 'changeme123'. Form submissions are designed to integrate with a Google Sheets Web App URL, which can be configured in the admin panel.",
+  "requestFramePermissions": []
+}
