@@ -128,6 +128,9 @@ const Footer: React.FC = () => {
                 </div>
                 <div className="mt-16 pt-8 border-t border-gray-700 text-center text-gray-400">
                     <p>&copy; {new Date().getFullYear()} {siteSettings.siteTitle}. All Rights Reserved.</p>
+                     <div className="mt-4">
+                        <Link to="/admin" className="text-xs text-gray-500 hover:text-gray-300 transition-colors">Admin Login</Link>
+                    </div>
                 </div>
             </div>
         </footer>
